@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Timetable update="2025-10-09">
+<Timetable update="2025-10-11">
     <Stop name="工学院大学">
         <Route name="K02" destination="工02 直通 JR・京王八王子駅行">
             <Weekday>
